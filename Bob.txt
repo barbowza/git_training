@@ -1,1 +1,1 @@
-Hey Alice, I'm Bob and I'm new here
+Hey Alice, I'm Bob and I'm new here! So this is git?
